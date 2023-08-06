@@ -36,6 +36,7 @@ public class Solution {
                list.add(matrix[i][startcol]);
                 count++;
             }
+
             startcol++;
         }
        return list;
