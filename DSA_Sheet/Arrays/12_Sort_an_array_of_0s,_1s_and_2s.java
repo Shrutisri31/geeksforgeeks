@@ -29,4 +29,5 @@ class Solution
     }
 }
 
-// Problem with this code is that TC - O(2N) and ques tells it to do in TC - O(N),SC-O(1)
+// Problem with this code is that TC - O(2N) and ques tells it to do in TC - O(N),SC-O(1) 
+// for solving this problem by Optimal approach of Dutch National flag Algorithm
